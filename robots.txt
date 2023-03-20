@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soc.github.io/sitemap.xml
